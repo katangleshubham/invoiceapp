@@ -1,3 +1,6 @@
+//indesx js for routers
+
+
 const express = require('express');
 const router = express.Router()
 
